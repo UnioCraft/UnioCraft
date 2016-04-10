@@ -2,6 +2,8 @@
 
 Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 tarihinde geçiliyor! Onlarca hata düzetlmesi, yeni haritalar, yeni özellikler ve daha güçlü korumalar ile daha keyifli bir SurvivalGames keyfine hazır olun!
 
+![SurvivalGames bekleme lobisinden bir kare](http://i64.tinypic.com/14izuvo.png)
+
 ### Yenilikler
 - Yeni VIP türü eklendi! HERO! Bekleme lobisinde uçabilen, harita oylamasında 3 hakkı olan ve 3 kat daha fazla puan kazanan bu VIP türü bir harika!
 - Bekleme lobisi yenilendi! Yeni ve çok eğlenceli bir parkura merhaba deyin!
@@ -48,3 +50,5 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 ta
 - SurvivalGames 4 haritasının ortasındaki kırık bloklar düzeltildi.
 - Par72, Turbulence ve SurvivalGames4 haritasında blokların içine giren sandıklar düzeltildi.
 - TeweranSurvivalGames haritasındaki tüm sandıklar yenilendi. Tier2'lar daha düzgün konumlandırıldı.
+
+![Yeni lobiden küçük bir spoiler](http://i67.tinypic.com/whe002.png)
