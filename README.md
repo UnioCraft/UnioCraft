@@ -9,3 +9,7 @@ GitHub sayfamız yapılan yenilikleri bildirmek ve sorunları hızla iletmeniz i
 
 # Yenilikleri nasıl görebilirim?
 Yaptığımız halka açık yenilikleri üst bölümdeki [Commits] (https://github.com/UnioDex/UnioCraft/commits/master) bölümünden görebilirsiniz.
+
+-- Son Yenilikler --
+- Sezon 3'ün kesin açılış tarihi belirlendi.
+- Yeni lobi sistemi ayarlandı.
