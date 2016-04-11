@@ -52,3 +52,17 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 ta
 - TeweranSurvivalGames haritasındaki tüm sandıklar yenilendi. Tier2'lar daha düzgün konumlandırıldı.
 
 ![Yeni lobiden küçük bir spoiler](http://i67.tinypic.com/whe002.png)
+
+### Lobi Güncellemeleri
+- Herhangi bir oyunda VIP olanlar lobide /vipol <vip olduğunuz serveradı> komutunu kullanarak lobide de VIP olabilir.
+- Lobide konuşma yasağı kaldırıldı.
+- Oyuncuları sırtına alma veya diğer oyuncuların sırtına binme özelliği eklendi. (Stacker sistemi)
+- Zıplama plakaları artık daha çok uçuruyor.
+- Artık ışınlanma okunu kullandığınızda kafanızın yönü değişmiyor.
+- Lobiye küfür, spam ve reklam koruması eklendi.
+- Oda seçim menüsü düzenlendi. Artık oyundaki odalar da gösteriliyor.
+- NPC'lere sağ tıklayarak sunuculara geçiş eklendi.
+- Sohbet etiketleri değiştirildi.
+- Gereksiz komutlar kaldırıldı.
+- Rütbeye göre TAB menüsü rütbeleri eklendi.
+- Ban sistemi tamamen türkçeleştirildi.
