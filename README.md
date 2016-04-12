@@ -13,4 +13,3 @@ Yaptığımız halka açık yenilikleri üst bölümdeki [Commits] (https://gith
 -- Son Yenilikler --
 - Sezon 3'ün kesin açılış tarihi belirlendi.
 - Yeni lobi sistemi ayarlandı.
-
