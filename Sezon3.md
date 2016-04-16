@@ -61,6 +61,7 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.1 sürümüne 16 Nisan 2016 ta
 ### Lobi Güncellemeleri
 - Herhangi bir oyunda VIP olanlar lobide /vipol <vip olduğunuz serveradı> komutunu kullanarak lobide de VIP olabilir.
 - Lobide konuşma yasağı kaldırıldı.
+- Bilgilendirme yan barı eklendi.
 - Oyuncuları sırtına alma veya diğer oyuncuların sırtına binme özelliği eklendi. (Stacker sistemi)
 - Zıplama plakaları artık daha çok uçuruyor.
 - Artık ışınlanma okunu kullandığınızda kafanızın yönü değişmiyor.
@@ -71,3 +72,5 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.1 sürümüne 16 Nisan 2016 ta
 - Gereksiz komutlar kaldırıldı.
 - Rütbeye göre TAB menüsü rütbeleri eklendi.
 - Ban sistemi tamamen türkçeleştirildi.
+- Proxy mesajları türkçeleştirildi.
+- Lobi sayısı 3'e çıkarıldı ve lobi seçici eklendi.
