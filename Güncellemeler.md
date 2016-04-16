@@ -1,14 +1,14 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
-### Lobi 3.1
+### Lobi 3.1 <hr />
 - VIP oyuncuların /vipol komutunu kullanırken üyelik bulunamaması sorunu çözüldü.
 - Lobi yayının kırılması engellendi.
 - Artık oyuna girildiğinde sohbet temizleniyor.
 - Tab listesine rütbeler eklendi.
 - Lobi sayısı 5'e çıkarıldı ve her lobi 50 kişilik yapıldı. Bu, lagı büyük ölçüde azalttı.
 
-### SurvivalGames 3.1
+### SurvivalGames 3.1 <hr />
 - Sezon 3'e geçiş yapıldı.
 - Websitemize yeni istatistikler eklendi.
 - Winds of Change haritasında bir spawn noktasında 2 kişi doğma sorunu çözüldü.
@@ -17,5 +17,5 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - Adrenaline haritasında ölüm oyununa yan yana başlama sorunu çözüldü.
 - Olta dayanıklılığı arttırıldı.
 
-### SurvivalGames 3.0
+### SurvivalGames 3.0 <hr />
 - Sezon 3 güncellemesi hakkında detaylar için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
