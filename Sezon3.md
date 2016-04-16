@@ -1,6 +1,6 @@
 # SurvivalGames Sezon 3
 
-Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 tarihinde geçiliyor! Onlarca hata düzetlmesi, yeni haritalar, yeni özellikler ve daha güçlü korumalar ile daha keyifli bir SurvivalGames keyfine hazır olun!
+Uzun zamandır beklenen UnioCraft SurvivalGames 3.1 sürümüne 16 Nisan 2016 tarihinde geçiliyor! Onlarca hata düzetlmesi, yeni haritalar, yeni özellikler ve daha güçlü korumalar ile daha keyifli bir SurvivalGames keyfine hazır olun!
 
 ![SurvivalGames bekleme lobisinden bir kare](http://i64.tinypic.com/14izuvo.png)
 
@@ -15,6 +15,10 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 ta
 - Sohbet ön ekleri yenilendi. Sohbet artık daha sade ve daha temiz!
 - Harita yapımcısını gösteren bir komut(/info) eklendi!
 - Komutlar(/komutlar) ve Kurallar(/kurallar) için komutlar eklendi.
+- VIP bilgilendirme komutları eklendi. (/vipbilgi ve /herobilgi).
+- Harita yapımcısı hakkında bilgi alınabilen "/sg info" komutu eklendi.
+- Oyuncuların kendi sohbetini temizlemesini sağlayan "/sc clear own" komutu eklendi.
+- Sohbete konuşma sınırı eklendi. Sadece 3 saniyede bir konuşulabilir. (VIP oyuncular için sınır yoktur.)
 
 ### Yeni Eklenen Haritalar
 - Holiday Resort 2
@@ -35,7 +39,7 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 ta
 - Artık pusula sandıklardan daha sık çıkıyor.
 - Artık sunucu dolduğunda boş yere beklemeye son! Bundan sonra sunucu dolduğunda bekleme süresi 15 saniyeye düşürülecek.
 - Komutların yanına eklenen alakasız argümanlar artık komut kullanımını engelliyor. Örneğin "/kill list", "/lobi list" vs.
-- Çakmaktaşı ve Çelik eşyasının dayanıklığı 3 vuruş, olta eşyasının dayanıklığı 4 vuruşa indirildi.
+- Çakmaktaşı ve Çelik eşyasının dayanıklığı 3 vuruş, olta eşyasının dayanıklığı 10-15 vuruşa indirildi.
 - VIP oyuncuların dolu odaya girdiğinde bekleme lobisinde doğmaları ve oyun esnasında orada kalmaları sorunu çözüldü.
 - Oyuncuların hasar alamaması sorunu düzeltildi.
 - Yasaklı komut sistemi değiştirildi. Gereksiz komutlar kaldırıldı.
@@ -48,8 +52,9 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.0 sürümüne 16 Nisan 2016 ta
 - Avaricia haritasının ortasına çalışma masası eklendi.
 - Zone85 haritasındaki gemilerin altı su ile dolduruldu.
 - SurvivalGames 4 haritasının ortasındaki kırık bloklar düzeltildi.
-- Par72, Turbulence ve SurvivalGames4 haritasında blokların içine giren sandıklar düzeltildi.
+- Par72, Turbulence ve SurvivalGames4 haritasında blokların içine giren sandıklar ydüzeltildi.
 - TeweranSurvivalGames haritasındaki tüm sandıklar yenilendi. Tier2'lar daha düzgün konumlandırıldı.
+- Winds of Change haritasında bir noktada birden fazla oyuncu doğması sorunu giderildi.
 
 ![Yeni lobiden küçük bir spoiler](http://i67.tinypic.com/whe002.png)
 
