@@ -13,10 +13,9 @@ Uzun zamandır beklenen UnioCraft SurvivalGames 3.1 sürümüne 16 Nisan 2016 ta
 - TeamSG ve SoloSG istatistikleri birbirinden ayrıldı!
 - Lobide /join sg, /join solosg ve /join teamsg komutları eklendi! Bu komutlar ile oda seçmeye gerek kalmadan direkt olarak oyunlara girebilirsiniz.
 - Sohbet ön ekleri yenilendi. Sohbet artık daha sade ve daha temiz!
-- Harita yapımcısını gösteren bir komut(/info) eklendi!
+- Harita yapımcısını gösteren bir komut(/sg info) eklendi!
 - Komutlar(/komutlar) ve Kurallar(/kurallar) için komutlar eklendi.
 - VIP bilgilendirme komutları eklendi. (/vipbilgi ve /herobilgi).
-- Harita yapımcısı hakkında bilgi alınabilen "/sg info" komutu eklendi.
 - Oyuncuların kendi sohbetini temizlemesini sağlayan "/sc clear own" komutu eklendi.
 - Sohbete konuşma sınırı eklendi. Sadece 3 saniyede bir konuşulabilir. (VIP oyuncular için sınır yoktur.)
 
