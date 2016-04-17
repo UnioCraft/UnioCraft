@@ -3,6 +3,7 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 
 ## Lobi
 #### 3.1.1:
+- Survival NPC'si köylü zombi olarak değiştirildi. Enderman çok fazla bugda kaldığı için bu değişikliği yapmak zorunda kaldık.
 - /join komutu kullanılamama sorunu çözüldü. Şu an için /join sg, /join solosg ve /join teamsg kullanabilirsiniz.
 - Bossların üstüne oyunları kaç kişinin oynadığı eklendi.
 
