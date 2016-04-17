@@ -4,6 +4,7 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 ## Lobi
 #### 3.1.1:
 - /join komutu kullanılamama sorunu çözüldü. Şu an için /join sg, /join solosg ve /join teamsg kullanabilirsiniz.
+- Bossların üstüne oyunları kaç kişinin oynadığı eklendi.
 
 #### 3.1:
 - VIP oyuncuların /vipol komutunu kullanırken üyelik bulunamaması sorunu çözüldü.
