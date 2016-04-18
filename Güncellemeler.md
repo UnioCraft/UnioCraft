@@ -16,6 +16,11 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - Lobi sayısı 5'e çıkarıldı ve her lobi 50 kişilik yapıldı. Bu, lagı büyük ölçüde azalttı.
 
 ## SurvivalGames
+#### 3.2.0:
+- Oyuncuların görünmez olup diğer oyuncuları öldürmesi sorunu çözüldü.
+- Görünmezlik sorununu gidermek için oyuna "Başlıyor" esnasında giriş yapmayı engelledik. Bu geçici bir çözümdür. İleride bu engel kalkacaktır.
+- Artık vuruş makroları hile koruması tarafından daha hızlı yakalanıyor.
+
 #### 3.1.1
 - USG Angel haritasındaki sandıkların sayısı arttırıldı.
 - Climb adı verilen hile korumasındaki sorun giderildi. Artık hilesiz oyuncuları atmıyor.
