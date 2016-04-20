@@ -2,6 +2,9 @@
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
 ## SurvivalGames
+#### 3.2.1:
+- Oyuncuların oyundan çıktığında veya atıldığında eşyalarının düşmeme sorunu çözüldü.
+
 #### 3.2.0:
 - Oyuncuların görünmez olup diğer oyuncuları öldürmesi sorunu çözüldü.
 - Görünmezlik sorununu gidermek için oyuna "Başlıyor" esnasında giriş yapmayı engelledik. Bu geçici bir çözümdür. İleride bu engel kalkacaktır.
