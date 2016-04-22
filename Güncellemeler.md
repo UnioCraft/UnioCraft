@@ -24,4 +24,4 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - __[Lobi] [3.1.0]__ Tab listesine rütbeler eklendi.
 - __[Lobi] [3.1.0]__ Lobi sayısı 5'e çıkarıldı ve her lobi 50 kişilik yapıldı. Bu, lagı büyük ölçüde azalttı.
 - __[SurvivalGames] [3.0.0]__ Sezon 3 güncellemesi hakkında detaylar için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
-- __[Lobi] [3.0.0] Yeni lobiye geçildi. Daha fazla detay için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
+- __[Lobi] [3.0.0]__ Yeni lobiye geçildi. Daha fazla detay için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
