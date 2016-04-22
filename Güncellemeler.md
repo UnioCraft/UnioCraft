@@ -1,41 +1,27 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
-
-## SurvivalGames
-#### 3.2.1:
-- Oyuncuların oyundan çıktığında veya atıldığında eşyalarının düşmeme sorunu çözüldü.
-
-#### 3.2.0:
-- Oyuncuların görünmez olup diğer oyuncuları öldürmesi sorunu çözüldü.
-- Görünmezlik sorununu gidermek için oyuna "Başlıyor" esnasında giriş yapmayı engelledik. Bu geçici bir çözümdür. İleride bu engel kalkacaktır.
-- Artık vuruş makroları hile koruması tarafından daha hızlı yakalanıyor.
-
-#### 3.1.1
-- USG Angel haritasındaki sandıkların sayısı arttırıldı.
-- Climb adı verilen hile korumasındaki sorun giderildi. Artık hilesiz oyuncuları atmıyor.
-
-#### 3.1
-- Sezon 3'e geçiş yapıldı.
-- Websitemize yeni istatistikler eklendi.
-- Winds of Change haritasında bir spawn noktasında 2 kişi doğma sorunu çözüldü.
-- Adrenaline haritasında bir spawn noktasında 2 kişi doğma sorunu çözüldü.
-- Winds of Change haritasında ölüm oyununa yan yana başlama sorunu çözüldü.
-- Adrenaline haritasında ölüm oyununa yan yana başlama sorunu çözüldü.
-- Olta dayanıklılığı arttırıldı.
-
-#### 3.0
-- Sezon 3 güncellemesi hakkında detaylar için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
-
-## Lobi
-#### 3.1.1:
-- Artık her 15 dakikada bir çevredeki tüm oklar siliniyor. NPC'lere yapışıp çıkmak bilmeyen oklar için bu yeniliği yaptık.
-- Survival NPC'si köylü zombi olarak değiştirildi. Enderman çok fazla bugda kaldığı için bu değişikliği yapmak zorunda kaldık.
-- /join komutu kullanılamama sorunu çözüldü. Şu an için /join sg, /join solosg ve /join teamsg kullanabilirsiniz.
-- Bossların üstüne oyunları kaç kişinin oynadığı eklendi.
-
-#### 3.1:
-- VIP oyuncuların /vipol komutunu kullanırken üyelik bulunamaması sorunu çözüldü.
-- Lobi yayının kırılması engellendi.
-- Artık oyuna girildiğinde sohbet temizleniyor.
-- Tab listesine rütbeler eklendi.
-- Lobi sayısı 5'e çıkarıldı ve her lobi 50 kişilik yapıldı. Bu, lagı büyük ölçüde azalttı.
+- [Skyblock] [2.0] Örse spawner ve mantar koyulması engellendi. Potansiyel spawner dolandırıcılığı engellenmiş oldu. 
+- [SurvivalGames] [3.2.1] Oyuncuların oyundan çıktığında veya atıldığında eşyalarının düşmeme sorunu çözüldü.
+- [SurvivalGames] [3.2.0] Oyuncuların görünmez olup diğer oyuncuları öldürmesi sorunu çözüldü.
+- [SurvivalGames] [3.2.0] Görünmezlik sorununu gidermek için oyuna "Başlıyor" esnasında giriş yapmayı engelledik. Bu geçici bir çözümdür. İleride bu engel kalkacaktır.
+- [SurvivalGames] [3.2.0] Artık vuruş makroları hile koruması tarafından daha hızlı yakalanıyor.
+- [Lobi] [3.1.1] Artık her 15 dakikada bir çevredeki tüm oklar siliniyor. NPC'lere yapışıp çıkmak bilmeyen oklar için bu yeniliği yaptık.
+- [Lobi] [3.1.1] Survival NPC'si köylü zombi olarak değiştirildi. Enderman çok fazla bugda kaldığı için bu değişikliği yapmak zorunda kaldık.
+- [Lobi] [3.1.1] /join komutu kullanılamama sorunu çözüldü. Şu an için /join sg, /join solosg ve /join teamsg kullanabilirsiniz.
+- [Lobi] [3.1.1] Bossların üstüne oyunları kaç kişinin oynadığı eklendi.
+- [SurvivalGames] [3.1.1] USG Angel haritasındaki sandıkların sayısı arttırıldı.
+- [SurvivalGames] [3.1.1] Climb adı verilen hile korumasındaki sorun giderildi. Artık hilesiz oyuncuları atmıyor.
+- [SurvivalGames] [3.1.0] Sezon 3'e geçiş yapıldı.
+- [SurvivalGames] [3.1.0] Websitemize yeni istatistikler eklendi.
+- [SurvivalGames] [3.1.0] Winds of Change haritasında bir spawn noktasında 2 kişi doğma sorunu çözüldü.
+- [SurvivalGames] [3.1.0] Adrenaline haritasında bir spawn noktasında 2 kişi doğma sorunu çözüldü.
+- [SurvivalGames] [3.1.0] Winds of Change haritasında ölüm oyununa yan yana başlama sorunu çözüldü.
+- [SurvivalGames] [3.1.0] Adrenaline haritasında ölüm oyununa yan yana başlama sorunu çözüldü.
+- [SurvivalGames] [3.1.0] Olta dayanıklılığı arttırıldı.
+- [Lobi] [3.1.0] VIP oyuncuların /vipol komutunu kullanırken üyelik bulunamaması sorunu çözüldü.
+- [Lobi] [3.1.0] Lobi yayının kırılması engellendi.
+- [Lobi] [3.1.0] Artık oyuna girildiğinde sohbet temizleniyor.
+- [Lobi] [3.1.0] Tab listesine rütbeler eklendi.
+- [Lobi] [3.1.0] Lobi sayısı 5'e çıkarıldı ve her lobi 50 kişilik yapıldı. Bu, lagı büyük ölçüde azalttı.
+- [SurvivalGames] [3.0.0] Sezon 3 güncellemesi hakkında detaylar için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
+- [Lobi] [3.0.0] Yeni lobiye geçildi. Daha fazla detay için [tıklayın.] (https://github.com/UnioDex/UnioCraft/blob/master/Sezon3.md)
