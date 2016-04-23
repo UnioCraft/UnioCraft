@@ -1,5 +1,16 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.5]__ SoloSG odaları artık 12 kişide başlıyor!
+- __[SurvivalGames] [3.2.5]__ Speed ve Climb hile korumaları güncellendi. Artık daha düzgün çalışıyorlar.
+- __[SurvivalGames] [3.2.5]__ Reklam koruması geliştirildi. Artık sadece IP adresleri değil linklerde yasaklı.
+- __[SurvivalGames] [3.2.5]__ FastUse hile koruması sebebiyle ölüm oyunu başlarken oluşan bir hata düzeltildi.
+- __[SurvivalGames] [3.2.5]__ Sunucuda lag varken NoSwing hile korumasının oyuncuları atması sorunu düzeltildi.
+- __[SurvivalGames] [3.2.5]__ MoonBase 9 ve Zone85 Revamped haritalarında olan harita kırıkları düzeltildi.
+- __[SurvivalGames] [3.2.5]__ Zone85 Revamped haritasında olan FPS düşüren kızıltaş düzeneği kaldırıldı.
+- __[SurvivalGames] [3.2.5]__ Lag büyük oranda azaltıldı. Sunucular arası dengeleme yapıldı.
+- __[Lobi] [3.1.5]__ Reklam koruması geliştirildi. Artık sadece IP adresleri değil linklerde yasaklı.
+- __[Lobi] [3.1.5]__ Empty Packet hatası sebebiyle sunucuya girilememe sorunu çözüldü.
+- __[Genel] [3.2.5]__ [Proxy] ya da [Hata 13] sebepleriyle oyunun ortasında atılma sorunu çözüldü.
 - __[Skyblock] [2.0]__ Örse spawner ve mantar koyulması engellendi. Potansiyel spawner dolandırıcılığı engellenmiş oldu. 
 - __[SurvivalGames] [3.2.1]__ Oyuncuların oyundan çıktığında veya atıldığında eşyalarının düşmeme sorunu çözüldü.
 - __[SurvivalGames] [3.2.0]__ Oyuncuların görünmez olup diğer oyuncuları öldürmesi sorunu çözüldü.
