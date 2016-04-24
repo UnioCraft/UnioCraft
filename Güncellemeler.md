@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Lobi] [3.1.6]__ SurvivalGames arena seçim bölümüne maksimum oyuncu sayıları eklendi.
 - __[SurvivalGames] [3.2.5]__ SoloSG odaları artık 12 kişide başlıyor!
 - __[SurvivalGames] [3.2.5]__ Speed ve Climb hile korumaları güncellendi. Artık daha düzgün çalışıyorlar.
 - __[SurvivalGames] [3.2.5]__ Reklam koruması geliştirildi. Artık sadece IP adresleri değil linklerde yasaklı.
