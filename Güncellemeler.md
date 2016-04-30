@@ -1,5 +1,12 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.6]__ USG 1453 haritası sunucuya eklendi.
+- __[SurvivalGames] [3.2.6]__ Tüm haritaların doğuş noktaları güncellendi. Artık oyuncular aralarında 1 kişilik boşluklarla doğuş noktalarına ışınlanacaklar.
+- __[SurvivalGames] [3.2.6]__ Tüm haritaların ölüm oyunu doğuş noktaları güncellendi. Yan yana doğma gibi sorunlar çözüldü.
+- __[SurvivalGames] [3.2.6]__ Küfür koruması güncellendi. Küfür içermeyen bazı kelimelerin küfür olarak algılanması sorunu çözüldü.
+- __[SurvivalGames] [3.2.6]__ Fly hile korumasına lag kontrol edici eklendi. Artık sunucudan kaynaklı bir lag sorunu varken oyundan atmayacak.
+- __[SurvivalGames] [3.2.6]__ SurvivalGames4 haritasındaki sorunlu doğuş noktaları düzeltildi.
+- __[Lobi] [3.1.7]__ Küfür koruması güncellendi. Küfür içermeyen bazı kelimelerin küfür olarak algılanması sorunu çözüldü.
 - __[Lobi] [3.1.6]__ SurvivalGames arena seçim bölümüne maksimum oyuncu sayıları eklendi.
 - __[SurvivalGames] [3.2.5]__ SoloSG odaları artık 12 kişide başlıyor!
 - __[SurvivalGames] [3.2.5]__ Speed ve Climb hile korumaları güncellendi. Artık daha düzgün çalışıyorlar.
