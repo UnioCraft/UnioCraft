@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock] [2.0.1]__ Tabela eşyasının ticarette kullanılması yasaklandı. Kilitlerle ilgili bir bug sebebiyle bu yenilik yapıldı.
 - __[SurvivalGames] [3.2.6]__ USG 1453 haritası sunucuya eklendi.
 - __[SurvivalGames] [3.2.6]__ Tüm haritaların doğuş noktaları güncellendi. Artık oyuncular aralarında 1 kişilik boşluklarla doğuş noktalarına ışınlanacaklar.
 - __[SurvivalGames] [3.2.6]__ Tüm haritaların ölüm oyunu doğuş noktaları güncellendi. Yan yana doğma gibi sorunlar çözüldü.
