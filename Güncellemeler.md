@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.7]__ HolidayResort 2 haritasındaki sandıklar düzenlendi. Yan yana olan onlarca sandık hatası düzeltildi.
+- __[Factions] [2.1]__ Sohbette sürekli "null" mesajının gösterilmesi sorunu düzeltildi.
+- __[Factions] [2.1]__ Nuker hilesi için koruma eklendi.
 - __[Factions] [2.0]__ Sidebar'ın (skorbord) bazı oyuncularda görünmemesi sorunu düzeltildi.
 - __[Skyblock] [2.0.2]__ Başkalarının adasına kilit koyulması nedeniyle tabelanın açık arttırılmaya çıkarılması engellendi.
 - __[Skyblock] [2.0.1]__ Tabela eşyasının ticarette kullanılması yasaklandı. Kilitlerle ilgili bir bug sebebiyle bu yenilik yapıldı.
