@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Factions] [2.2]__ Madenlere blok koyulması engellendi.
 - __[SurvivalGames] [3.2.7]__ HolidayResort 2 haritasındaki sandıklar düzenlendi. Yan yana olan onlarca sandık hatası düzeltildi.
 - __[Factions] [2.1]__ Sohbette sürekli "null" mesajının gösterilmesi sorunu düzeltildi.
 - __[Factions] [2.1]__ Nuker hilesi için koruma eklendi.
