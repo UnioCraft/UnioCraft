@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Factions] [2.3]__ "/f show <klan>" komutundan enemies ve allies bölümü kaldırıldı. Bazı klanların binlerce düşmanı olduğundan bu komut kullanıldığında oyun çöküyordu. Bu sebeple kaldırıldı.
 - __[Factions] [2.2]__ Madenlere blok koyulması engellendi.
 - __[SurvivalGames] [3.2.7]__ HolidayResort 2 haritasındaki sandıklar düzenlendi. Yan yana olan onlarca sandık hatası düzeltildi.
 - __[Factions] [2.1]__ Sohbette sürekli "null" mesajının gösterilmesi sorunu düzeltildi.
