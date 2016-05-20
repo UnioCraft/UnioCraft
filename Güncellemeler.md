@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.9]__ SoloSG odalarda konuşabilme bugu giderildi.
+- __[SurvivalGames] [3.2.9]__ HolidayResort 2 haritasında gece olmaması ve sandıkların yenilenmemesi problemi düzeltildi.
+- __[SurvivalGames] [3.2.9]__ Kill Aura (Angle) korumasının sebepsiz yere atması sorunu düzeltildi.
 - __[SurvivalGames] [3.2.8]__ Sunucuya hazırlık aşamasında girildiğinde oyundan atması engellendi.
 - __[SurvivalGames] [3.2.8]__ Oyun başında 10 saniyeliğine oluşan lag sorunu düzeltildi.
 - __[Factions] [2.4]__ "/f show <klan>" komutuna Allies bölümü geri eklendi. Bunu kaldırmak saçmaydı, kabul ediyorum.
