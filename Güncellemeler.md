@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.10]__ /stats komutunun kullanılamama sorunu düzeltildi.
+- __[SurvivalGames] [3.2.10]__ /points komutunun kullanılamama sorunu düzeltildi.
+- __[SurvivalGames] [3.2.10]__ Sponsor olunamama sorunu düzeltildi.
 - __[SurvivalGames] [3.2.9]__ SoloSG odalarda konuşabilme bugu giderildi.
 - __[SurvivalGames] [3.2.9]__ HolidayResort 2 haritasında gece olmaması ve sandıkların yenilenmemesi problemi düzeltildi.
 - __[SurvivalGames] [3.2.9]__ Kill Aura (Angle) korumasının sebepsiz yere atması sorunu düzeltildi.
