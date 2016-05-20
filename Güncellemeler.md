@@ -1,5 +1,7 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.8]__ Sunucuya hazırlık aşamasında girildiğinde oyundan atması engellendi.
+- __[SurvivalGames] [3.2.8]__ Oyun başında 10 saniyeliğine oluşan lag sorunu düzeltildi.
 - __[Factions] [2.4]__ "/f show <klan>" komutuna Allies bölümü geri eklendi. Bunu kaldırmak saçmaydı, kabul ediyorum.
 - __[Factions] [2.3]__ "/f show <klan>" komutundan enemies ve allies bölümü kaldırıldı. Bazı klanların binlerce düşmanı olduğundan bu komut kullanıldığında oyun çöküyordu. Bu sebeple kaldırıldı.
 - __[Factions] [2.2]__ Madenlere blok koyulması engellendi.
