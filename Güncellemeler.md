@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.2.12]__ Reach hile koruması geçici olarak kaldırıldı. Bu güncellemeyle beraber Kill Aura'nın sebepsiz yere atması büyük oranda azaltıldı. Ayrıca hala aktif 2 tane Kill Aura koruması var. Hileler atılmaya devam edecek.
 - __[SurvivalGames] [3.2.11]__ Angle hile koruması geçici olarak kaldırıldı.
 - __[SurvivalGames] [3.2.10]__ /stats komutunun kullanılamama sorunu düzeltildi.
 - __[SurvivalGames] [3.2.10]__ /points komutunun kullanılamama sorunu düzeltildi.
