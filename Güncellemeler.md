@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.3.1]__ Geri atmalar azaltıldı.
+- __[SurvivalGames] [3.3.1]__ Fly, Speed ve Glide hile korumaları geliştirildi
+- __[SurvivalGames] [3.3.1]__ Angle ve Reach hile korumaları aktifleştirildi.
 - __[SurvivalGames] [3.3]__ USG Islands haritası sunucuya eklendi.
 - __[SurvivalGames] [3.2.12]__ Reach hile koruması geçici olarak kaldırıldı. Bu güncellemeyle beraber Kill Aura'nın sebepsiz yere atması büyük oranda azaltıldı. Ayrıca hala aktif 2 tane Kill Aura koruması var. Hileler atılmaya devam edecek.
 - __[SurvivalGames] [3.2.11]__ Angle hile koruması geçici olarak kaldırıldı.
