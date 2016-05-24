@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.3.3]__ NoFall hile koruması eklendi.
 - __[SurvivalGames] [3.3.2]__ Artık oyun kodu ve isim bölümü oyuna izleyici olarak katılındığında da gösteriliyor.
 - __[SurvivalGames] [3.3.1]__ Geri atmalar azaltıldı.
 - __[SurvivalGames] [3.3.1]__ Fly, Speed ve Glide hile korumaları geliştirildi
