@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Factions] [2.5]__ VIP madenlerinin yenilenme süresi 1 saatten 30 dakikaya indirildi.
 - __[SurvivalGames] [3.3.3]__ NoFall hile koruması eklendi.
 - __[SurvivalGames] [3.3.2]__ Artık oyun kodu ve isim bölümü oyuna izleyici olarak katılındığında da gösteriliyor.
 - __[SurvivalGames] [3.3.1]__ Geri atmalar azaltıldı.
