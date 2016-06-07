@@ -1,5 +1,7 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[WebSite] [1.0]__ Kayıt sayfasında yaşanan bazı sorunlar giderildi. Artık daha sorunsuz bir kayıt sayfası var.
+- __[WebSite] [1.0]__ Site güncellemeleri not alınmaya başlandı.
 - __[SurvivalGames] [3.4]__ Oyuna "BAŞLIYOR" aşamasında girme yasağı kaldırıldı.
 - __[SurvivalGames] [3.4]__ Oyuna "BAŞLIYOR" aşamasında girildiğinde giriş yapan oyuncunun görünmez olması sorunu giderildi.
 - __[Factions] [2.5]__ VIP madenlerinin yenilenme süresi 1 saatten 30 dakikaya indirildi.
