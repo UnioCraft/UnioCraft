@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock] [2.1]__ Adalarda ve sunucu genelinde mob doğma limiti arttırıldı.
 - __[WebSite] [1.0]__ Kayıt sayfasında yaşanan bazı sorunlar giderildi. Artık daha sorunsuz bir kayıt sayfası var.
 - __[WebSite] [1.0]__ Site güncellemeleri not alınmaya başlandı.
 - __[SurvivalGames] [3.4]__ Oyuna "BAŞLIYOR" aşamasında girme yasağı kaldırıldı.
