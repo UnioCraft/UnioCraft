@@ -1,5 +1,7 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.4.1]__ Hile korumasında oluşan bir açık sebebiyle sunucuda aşırı lag yaşanması sorunu giderildi.
+- __[SurvivalGames] [3.4.1]__ Hile korumasına sunucudaki lag durumunu kontrol eden bir sistem eklendi. Artık oyuncular sunucuda lag varken oyundan atılmayacaklar.
 - __[Skyblock] [2.1]__ Adalarda ve sunucu genelinde mob doğma limiti arttırıldı.
 - __[WebSite] [1.0]__ Kayıt sayfasında yaşanan bazı sorunlar giderildi. Artık daha sorunsuz bir kayıt sayfası var.
 - __[WebSite] [1.0]__ Site güncellemeleri not alınmaya başlandı.
