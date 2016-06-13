@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock] [2.2]__ Mantar bloklarının ticareti engellendi. 1.8'e tam geçiş yapıldığında engel kaldırılacaktır.
 - __[SurvivalGames] [3.4.1]__ Hile korumasında oluşan bir açık sebebiyle sunucuda aşırı lag yaşanması sorunu giderildi.
 - __[SurvivalGames] [3.4.1]__ Hile korumasına sunucudaki lag durumunu kontrol eden bir sistem eklendi. Artık oyuncular sunucuda lag varken oyundan atılmayacaklar.
 - __[Skyblock] [2.1]__ Adalarda ve sunucu genelinde mob doğma limiti arttırıldı.
