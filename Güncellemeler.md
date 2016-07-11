@@ -1,6 +1,5 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
-- __[Skyblock] [2.4]__ Nether dünyasında eşya atma engellendi. Güvenli Ticaret sistemi dışında eşya alışverişi yapılmasını önlemek için yapıldı.
 - __[Genel]__ Küfür ve spam koruması yenilendi. Artık daha güçlü bir koruma var.
 - __[Skyblock] [2.3]__ Spawn dünyasında eşya atma engellendi. Güvenli Ticaret sistemi dışında eşya alışverişi yapılmasını önlemek için yapıldı.
 - __[Skyblock] [2.2]__ Mantar bloklarının ticareti engellendi. 1.8'e tam geçiş yapıldığında engel kaldırılacaktır.
