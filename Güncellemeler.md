@@ -1,5 +1,9 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.4.2]__ Artık oyunun her esnasında savaştan çıkınca kişinin envanterindeki eşyalar yere düşürülüyor.
+- __[SurvivalGames] [3.4.2]__ Zone85 haritasında bir doğuş noktasında kalan ve her oyun başında orada olan kızıltaş meşalesi kaldırıldı.
+- __[SurvivalGames] [3.4.2]__ Avaricia haritasında demir eşyaların bulunduğu eşya çerçeveleri kaldırıldı.
+- __[SurvivalGames] [3.4.2]__ Sandıklardan çıkan çubuk sayısı arttırıldı.
 - __[Genel]__ Küfür ve spam koruması yenilendi. Artık daha güçlü bir koruma var.
 - __[Skyblock] [2.3]__ Spawn dünyasında eşya atma engellendi. Güvenli Ticaret sistemi dışında eşya alışverişi yapılmasını önlemek için yapıldı.
 - __[Skyblock] [2.2]__ Mantar bloklarının ticareti engellendi. 1.8'e tam geçiş yapıldığında engel kaldırılacaktır.
