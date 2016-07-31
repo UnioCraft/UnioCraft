@@ -1,5 +1,12 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock] [2.4]__ Oyunculara /tptoggle komutu eklendi. Böylece oyuncular ışınlanma isteklerini kapatabilirler.
+- __[SurvivalGames] [3.4.6]__ Hile korumasında yüzlerce NPC çıkma sorunu düzeltildi.
+- __[SurvivalGames] [3.4.5]__ Veritabanı sistemi tamamıyla değiştirildi.
+- __[SurvivalGames] [3.4.5]__ USG eklentisi baştan yazıldı, kod temizlendi.
+- __[SurvivalGames] [3.4.5]__ Kurallara artık /rules komutu ile de erişilebilir.
+- __[Website] [1.1]__ Şifre sıfırlama sistemi değiştirildi. Artık daha düzgün çalışıyor ve maillerde oyuncu adları yazıyor.
+- __[Website] [1.1]__ Hosting değiştirildi, site lagı düzeltildi.
 - __[SurvivalGames] [3.4.2]__ Artık oyunun her esnasında savaştan çıkınca kişinin envanterindeki eşyalar yere düşürülüyor.
 - __[SurvivalGames] [3.4.2]__ Zone85 haritasında bir doğuş noktasında kalan ve her oyun başında orada olan kızıltaş meşalesi kaldırıldı.
 - __[SurvivalGames] [3.4.2]__ Avaricia haritasında demir eşyaların bulunduğu eşya çerçeveleri kaldırıldı.
