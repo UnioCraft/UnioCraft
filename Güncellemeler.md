@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.4.7]__ Yeni sunucular satın alındı ve kapalı olan 5 oda açıldı. Lag azaltıldı.
 - __[Factions] [2.6]__ Hile koruması güncelleştirildi. Artık Fly, Speed gibi haraket hileleri daha hızlı yakalanıyor. Ayrıca Kill Aura gibi savaş hileleri koruması da düzenlendi. Hile yapan kişiler kayıt altına alınacaktır.
 - __[Skyblock] [2.4]__ Oyunculara /tptoggle komutu eklendi. Böylece oyuncular ışınlanma isteklerini kapatabilirler.
 - __[SurvivalGames] [3.4.6]__ Hile korumasında yüzlerce NPC çıkma sorunu düzeltildi.
