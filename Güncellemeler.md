@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock] [1.4]__ Mantar marketi kurulması engellendi.
 - __[SurvivalGames] [3.4.7]__ Yeni sunucular satın alındı ve kapalı olan 5 oda açıldı. Lag azaltıldı.
 - __[Factions] [2.6]__ Hile koruması güncelleştirildi. Artık Fly, Speed gibi haraket hileleri daha hızlı yakalanıyor. Ayrıca Kill Aura gibi savaş hileleri koruması da düzenlendi. Hile yapan kişiler kayıt altına alınacaktır.
 - __[Skyblock] [2.4]__ Oyunculara /tptoggle komutu eklendi. Böylece oyuncular ışınlanma isteklerini kapatabilirler.
@@ -14,11 +15,11 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - __[SurvivalGames] [3.4.2]__ Avaricia haritasında demir eşyaların bulunduğu eşya çerçeveleri kaldırıldı.
 - __[SurvivalGames] [3.4.2]__ Sandıklardan çıkan çubuk sayısı arttırıldı.
 - __[Genel]__ Küfür ve spam koruması yenilendi. Artık daha güçlü bir koruma var.
-- __[Skyblock] [2.3]__ Spawn dünyasında eşya atma engellendi. Güvenli Ticaret sistemi dışında eşya alışverişi yapılmasını önlemek için yapıldı.
-- __[Skyblock] [2.2]__ Mantar bloklarının ticareti engellendi. 1.8'e tam geçiş yapıldığında engel kaldırılacaktır.
+- __[Skyblock] [1.3]__ Spawn dünyasında eşya atma engellendi. Güvenli Ticaret sistemi dışında eşya alışverişi yapılmasını önlemek için yapıldı.
+- __[Skyblock] [1.2]__ Mantar bloklarının ticareti engellendi. 1.8'e tam geçiş yapıldığında engel kaldırılacaktır.
 - __[SurvivalGames] [3.4.1]__ Hile korumasında oluşan bir açık sebebiyle sunucuda aşırı lag yaşanması sorunu giderildi.
 - __[SurvivalGames] [3.4.1]__ Hile korumasına sunucudaki lag durumunu kontrol eden bir sistem eklendi. Artık oyuncular sunucuda lag varken oyundan atılmayacaklar.
-- __[Skyblock] [2.1]__ Adalarda ve sunucu genelinde mob doğma limiti arttırıldı.
+- __[Skyblock] [1.1]__ Adalarda ve sunucu genelinde mob doğma limiti arttırıldı.
 - __[WebSite] [1.0]__ Kayıt sayfasında yaşanan bazı sorunlar giderildi. Artık daha sorunsuz bir kayıt sayfası var.
 - __[WebSite] [1.0]__ Site güncellemeleri not alınmaya başlandı.
 - __[SurvivalGames] [3.4]__ Oyuna "BAŞLIYOR" aşamasında girme yasağı kaldırıldı.
@@ -47,8 +48,8 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - __[Factions] [2.1]__ Sohbette sürekli "null" mesajının gösterilmesi sorunu düzeltildi.
 - __[Factions] [2.1]__ Nuker hilesi için koruma eklendi.
 - __[Factions] [2.0]__ Sidebar'ın (skorbord) bazı oyuncularda görünmemesi sorunu düzeltildi.
-- __[Skyblock] [2.0.2]__ Başkalarının adasına kilit koyulması nedeniyle tabelanın açık arttırılmaya çıkarılması engellendi.
-- __[Skyblock] [2.0.1]__ Tabela eşyasının ticarette kullanılması yasaklandı. Kilitlerle ilgili bir bug sebebiyle bu yenilik yapıldı.
+- __[Skyblock] [1.0.2]__ Başkalarının adasına kilit koyulması nedeniyle tabelanın açık arttırılmaya çıkarılması engellendi.
+- __[Skyblock] [1.0.1]__ Tabela eşyasının ticarette kullanılması yasaklandı. Kilitlerle ilgili bir bug sebebiyle bu yenilik yapıldı.
 - __[SurvivalGames] [3.2.6]__ USG 1453 haritası sunucuya eklendi.
 - __[SurvivalGames] [3.2.6]__ Tüm haritaların doğuş noktaları güncellendi. Artık oyuncular aralarında 1 kişilik boşluklarla doğuş noktalarına ışınlanacaklar.
 - __[SurvivalGames] [3.2.6]__ Tüm haritaların ölüm oyunu doğuş noktaları güncellendi. Yan yana doğma gibi sorunlar çözüldü.
