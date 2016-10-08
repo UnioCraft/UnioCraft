@@ -1,5 +1,9 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [1.1]__ /skyblock2 komutu artık girişlobide de kullanılabiliyor.
+- __[Skyblock2] [1.1]__ /tpahere komutunun arenada ve aktif moblarda kullanılması yasaklandı.
+- __[Skyblock2] [1.1]__ Nether bozuk yaratıldığı için sıfırlandı.
+- __[Skyblock2] [1.0]__ Skyblock2 açıldı.
 - __[Skyblock] [1.4]__ Mantar marketi kurulması engellendi.
 - __[SurvivalGames] [3.4.7]__ Yeni sunucular satın alındı ve kapalı olan 5 oda açıldı. Lag azaltıldı.
 - __[Factions] [2.6]__ Hile koruması güncelleştirildi. Artık Fly, Speed gibi haraket hileleri daha hızlı yakalanıyor. Ayrıca Kill Aura gibi savaş hileleri koruması da düzenlendi. Hile yapan kişiler kayıt altına alınacaktır.
