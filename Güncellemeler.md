@@ -1,5 +1,10 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [1.2]__ Atılan susturma ve banların Skyblock2'de aktif olmaması sorunu düzeltildi.
+- __[Skyblock2] [1.2]__ Görevler dengelendi. Ödüller değiştirildi.
+- __[Skyblock2] [1.2]__ /trade sistemi Nether'da kaldırıldı.
+- __[Skyblock2] [1.2]__ Nether'da /tpahere gibi komutlar engellendi.
+- __[Skyblock2] [1.2]__ Nether Wart satış fiyatı dengelendi.
 - __[Skyblock2] [1.1]__ /skyblock2 komutu artık girişlobide de kullanılabiliyor.
 - __[Skyblock2] [1.1]__ /tpahere komutunun arenada ve aktif moblarda kullanılması yasaklandı.
 - __[Skyblock2] [1.1]__ Nether bozuk yaratıldığı için sıfırlandı.
