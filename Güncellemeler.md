@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+
+- __[Skyblock2] [1.3]__ VIP ödülü kullanırken büyük-küçük harf kullanımı artık farketmiyor.
+- __[Skyblock2] [1.3]__ Daha önce spawner alan biri tekrar spawner aldığında aktif olmaması sorunu düzeltildi.
 - __[Skyblock2] [1.2]__ Atılan susturma ve banların Skyblock2'de aktif olmaması sorunu düzeltildi.
 - __[Skyblock2] [1.2]__ Görevler dengelendi. Ödüller değiştirildi.
 - __[Skyblock2] [1.2]__ /trade sistemi Nether'da kaldırıldı.
