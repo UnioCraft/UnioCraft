@@ -1,6 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
+- __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun verdiği blok puanı 7.5 olarak değiştirildi.
+- __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun seviye puanı limiti 5 bin blok olarak değiştirildi.
 - __[Skyblock2] [1.4]__ Nether'da ki İngilizce hata mesajları kaldırıldı.
 - __[Skyblock2] [1.4]__ Huni eşya transferi 5 saniyede 32 eşya olarak değiştirildi. Hunilerin lag yaratmaması için bu değişiklik yapıldı.
 - __[Skyblock2] [1.4]__ **Dengeleme:** Lapis bloğunun market fiyatı arttırıldı.
