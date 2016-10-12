@@ -1,6 +1,14 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
+- __[Skyblock2] [1.5]__ SkyLord görevinin gerekliliği 5000 ada seviyesine çıkarıldı.
+- __[Skyblock2] [1.5]__ Nether Portalıyla başka adalarda portal oluşturma, sınırsız obsidiyen yaratma gibi sorunlar düzeltildi.
+- __[Skyblock2] [1.5]__ Nether'da obsidiyen kırmak ve koymak yasaklandı.
+- __[Skyblock2] [1.5]__ Nether'a yatak koymak yasaklandı.
+- __[Skyblock2] [1.5]__ Markete yaprak satışı eklendi.
+- __[Skyblock2] [1.5]__ Köylü ve Zombi Domuzadam spawnerları satışa sunuldu.
+- __[Skyblock2] [1.5]__ Spawner alınca aktif olmama sorunu düzeltildi.
+- __[Skyblock2] [1.5]__ UVIP oyuncuların /kafa komutunu sınırsız olarak kullanabilmesi sorunu düzeltildi.
 - __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun verdiği blok puanı 7.5 olarak değiştirildi.
 - __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun seviye puanı limiti 5 bin blok olarak değiştirildi.
 - __[Skyblock2] [1.4]__ Nether'da ki İngilizce hata mesajları kaldırıldı.
