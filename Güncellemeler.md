@@ -1,39 +1,44 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
-- __[Skyblock2] [1.5]__ SkyLord görevinin gerekliliği 5000 ada seviyesine çıkarıldı.
-- __[Skyblock2] [1.5]__ Nether Portalıyla başka adalarda portal oluşturma, sınırsız obsidiyen yaratma gibi sorunlar düzeltildi.
-- __[Skyblock2] [1.5]__ Nether'da obsidiyen kırmak ve koymak yasaklandı.
-- __[Skyblock2] [1.5]__ Nether'a yatak koymak yasaklandı.
-- __[Skyblock2] [1.5]__ Markete yaprak satışı eklendi.
-- __[Skyblock2] [1.5]__ Köylü ve Zombi Domuzadam spawnerları satışa sunuldu.
-- __[Skyblock2] [1.5]__ Spawner alınca aktif olmama sorunu düzeltildi.
-- __[Skyblock2] [1.5]__ UVIP oyuncuların /kafa komutunu sınırsız olarak kullanabilmesi sorunu düzeltildi.
-- __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun verdiği blok puanı 7.5 olarak değiştirildi.
-- __[Skyblock2] [1.4.1]__ **Dengeleme:** Demir bloğununun seviye puanı limiti 5 bin blok olarak değiştirildi.
-- __[Skyblock2] [1.4]__ Nether'da ki İngilizce hata mesajları kaldırıldı.
-- __[Skyblock2] [1.4]__ Huni eşya transferi 5 saniyede 32 eşya olarak değiştirildi. Hunilerin lag yaratmaması için bu değişiklik yapıldı.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Lapis bloğunun market fiyatı arttırıldı.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Kızıltaş ve bloğunun market fiyatı arttırıldı.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Cam fiyatı arttırıldı.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Kum bloğuna 10 bin blok limiti getirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Lapis bloğuna 10 bin blok limiti getirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Obsidiyen bloğuna 500 blok limiti getirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Obsidiyen bloğunun verdiği blok puanı 5 olarak değiştirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Cam bloğuna 4 bin blok limiti getirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Kumtaşı bloğuna 10 bin blok limiti getirildi.
-- __[Skyblock2] [1.4]__ **Dengeleme:** Kırmızı Kumtaşı bloğuna 10 bin blok limiti getirildi.
-- __[Skyblock2] [1.3]__ VIP ödülü kullanırken büyük-küçük harf kullanımı artık farketmiyor.
-- __[Skyblock2] [1.3]__ Daha önce spawner alan biri tekrar spawner aldığında aktif olmaması sorunu düzeltildi.
-- __[Skyblock2] [1.2]__ Atılan susturma ve banların Skyblock2'de aktif olmaması sorunu düzeltildi.
-- __[Skyblock2] [1.2]__ Görevler dengelendi. Ödüller değiştirildi.
-- __[Skyblock2] [1.2]__ /trade sistemi Nether'da kaldırıldı.
-- __[Skyblock2] [1.2]__ Nether'da /tpahere gibi komutlar engellendi.
-- __[Skyblock2] [1.2]__ Nether Wart satış fiyatı dengelendi.
-- __[Skyblock2] [1.1]__ /skyblock2 komutu artık girişlobide de kullanılabiliyor.
-- __[Skyblock2] [1.1]__ /tpahere komutunun arenada ve aktif moblarda kullanılması yasaklandı.
-- __[Skyblock2] [1.1]__ Nether bozuk yaratıldığı için sıfırlandı.
-- __[Skyblock2] [1.0]__ Skyblock2 açıldı.
+- __[Skyblock2] [BETA1.6]__ **Dengeleme:** Nether tuğlası seviye blok limiti 10.000'e çıkarıldı.
+- __[Skyblock2] [BETA1.6]__ **Dengeleme:** Taş Tuğla seviye blok limiti 40.000'e çıkarıldı.
+- __[Skyblock2] [BETA1.6]__ **Dengeleme:** Tuğla seviye blok limiti 20.000'e çıkarıldı.
+- __[Skyblock2] [BETA1.6]__ **Dengeleme:** Lapis Bloğu seviye blok limiti 20.000'e çıkarıldı.
+- __[Skyblock2] [BETA1.6]__ **Dengeleme:** Market güncelleştirildi. Craft ve keşfin devamı sağlanması için bazı bloklar kaldırıldı.
+- __[Skyblock2] [BETA1.5]__ SkyLord görevinin gerekliliği 5000 ada seviyesine çıkarıldı.
+- __[Skyblock2] [BETA1.5]__ Nether Portalıyla başka adalarda portal oluşturma, sınırsız obsidiyen yaratma gibi sorunlar düzeltildi.
+- __[Skyblock2] [BETA1.5]__ Nether'da obsidiyen kırmak ve koymak yasaklandı.
+- __[Skyblock2] [BETA1.5]__ Nether'a yatak koymak yasaklandı.
+- __[Skyblock2] [BETA1.5]__ Markete yaprak satışı eklendi.
+- __[Skyblock2] [BETA1.5]__ Köylü ve Zombi Domuzadam spawnerları satışa sunuldu.
+- __[Skyblock2] [BETA1.5]__ Spawner alınca aktif olmama sorunu düzeltildi.
+- __[Skyblock2] [BETA1.5]__ UVIP oyuncuların /kafa komutunu sınırsız olarak kullanabilmesi sorunu düzeltildi.
+- __[Skyblock2] [BETA1.4.1]__ **Dengeleme:** Demir bloğununun verdiği blok puanı 7.5 olarak değiştirildi.
+- __[Skyblock2] [BETA1.4.1]__ **Dengeleme:** Demir bloğununun seviye puanı limiti 5 bin blok olarak değiştirildi.
+- __[Skyblock2] [BETA1.4]__ Nether'da ki İngilizce hata mesajları kaldırıldı.
+- __[Skyblock2] [BETA1.4]__ Huni eşya transferi 5 saniyede 32 eşya olarak değiştirildi. Hunilerin lag yaratmaması için bu değişiklik yapıldı.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Lapis bloğunun market fiyatı arttırıldı.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Kızıltaş ve bloğunun market fiyatı arttırıldı.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Cam fiyatı arttırıldı.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Kum bloğuna 10 bin blok limiti getirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Lapis bloğuna 10 bin blok limiti getirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Obsidiyen bloğuna 500 blok limiti getirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Obsidiyen bloğunun verdiği blok puanı 5 olarak değiştirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Cam bloğuna 4 bin blok limiti getirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Kumtaşı bloğuna 10 bin blok limiti getirildi.
+- __[Skyblock2] [BETA1.4]__ **Dengeleme:** Kırmızı Kumtaşı bloğuna 10 bin blok limiti getirildi.
+- __[Skyblock2] [BETA1.3]__ VIP ödülü kullanırken büyük-küçük harf kullanımı artık farketmiyor.
+- __[Skyblock2] [BETA1.3]__ Daha önce spawner alan biri tekrar spawner aldığında aktif olmaması sorunu düzeltildi.
+- __[Skyblock2] [BETA1.2]__ Atılan susturma ve banların Skyblock2'de aktif olmaması sorunu düzeltildi.
+- __[Skyblock2] [BETA1.2]__ Görevler dengelendi. Ödüller değiştirildi.
+- __[Skyblock2] [BETA1.2]__ /trade sistemi Nether'da kaldırıldı.
+- __[Skyblock2] [BETA1.2]__ Nether'da /tpahere gibi komutlar engellendi.
+- __[Skyblock2] [BETA1.2]__ Nether Wart satış fiyatı dengelendi.
+- __[Skyblock2] [BETA1.1]__ /skyblock2 komutu artık girişlobide de kullanılabiliyor.
+- __[Skyblock2] [BETA1.1]__ /tpahere komutunun arenada ve aktif moblarda kullanılması yasaklandı.
+- __[Skyblock2] [BETA1.1]__ Nether bozuk yaratıldığı için sıfırlandı.
+- __[Skyblock2] [BETA1.0]__ Skyblock2 açıldı.
 - __[Skyblock] [1.4]__ Mantar marketi kurulması engellendi.
 - __[SurvivalGames] [3.4.7]__ Yeni sunucular satın alındı ve kapalı olan 5 oda açıldı. Lag azaltıldı.
 - __[Factions] [2.6]__ Hile koruması güncelleştirildi. Artık Fly, Speed gibi haraket hileleri daha hızlı yakalanıyor. Ayrıca Kill Aura gibi savaş hileleri koruması da düzenlendi. Hile yapan kişiler kayıt altına alınacaktır.
