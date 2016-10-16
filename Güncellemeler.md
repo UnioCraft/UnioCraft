@@ -1,6 +1,18 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 
+- __[SurvivalGames] [3.5]__ USG Square haritası eklendi.
+- __[SurvivalGames] [3.5]__ Büyü masaları kendiliğinden lapisli olarak ayarlandı.
+- __[SurvivalGames] [3.5]__ Tüylerin çıkma sıklığı arttırıldı ancak tüy sayısı 5 yerine 2 olarak değiştirildi.
+- __[SurvivalGames] [3.5]__ USG 1453 haritasında saatin değişmemesi sorunu düzeltildi.
+- __[SurvivalGames] [3.5]__ Tier 1 sandıklardan demir sayısı azaltıldı.
+- __[SurvivalGames] [3.5]__ Sandıklara ip eklendi. (Olta yapımı için)
+- __[SurvivalGames] [3.5]__ Oyuncuların gözükebileceği mesafe arttırıldı.
+- __[SurvivalGames] [3.5]__ Teknelerin normal bloklara koyulması sorunu düzeltildi.
+- __[SurvivalGames] [3.5]__ SurvivalGames 4 haritasındaki spawn noktalarını yukarı kaldıran şalter kaldırıldı.
+- __[SurvivalGames] [3.5]__ SurvivalGames 4 haritasındaki tuzaklı sandık ve çakıl tuzağı tekrar çalışır hale getirildi.
+- __[SurvivalGames] [3.5]__ Haritalardaki kızıltaş devrelerinin sunucu yenilemesinden sonra eski haline gelmemesi sorunu düzeltildi.
+- __[SurvivalGames] [3.5]__ Breeze Islands haritasından dışarıya çıkmayı sağlayan kırık bloklar yerine tekrar koyuldu.
 - __[Skyblock2] [BETA1.6]__ **Dengeleme:** Nether tuğlası seviye blok limiti 10.000'e çıkarıldı.
 - __[Skyblock2] [BETA1.6]__ **Dengeleme:** Taş Tuğla seviye blok limiti 40.000'e çıkarıldı.
 - __[Skyblock2] [BETA1.6]__ **Dengeleme:** Tuğla seviye blok limiti 20.000'e çıkarıldı.
