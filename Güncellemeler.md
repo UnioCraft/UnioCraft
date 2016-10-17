@@ -1,6 +1,7 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
-
+- __[SurvivalGames] [3.5.1]__ Hız hilesi korumasının gereksiz yere oyundan atması sorunu düzeltildi.
+- __[SurvivalGames] [3.5.1]__ USG 1453 haritası haksız kazanca açık eşyalar barındırdığından silinmiştir.
 - __[SurvivalGames] [3.5]__ USG Square haritası eklendi.
 - __[SurvivalGames] [3.5]__ Büyü masaları kendiliğinden lapisli olarak ayarlandı.
 - __[SurvivalGames] [3.5]__ Tüylerin çıkma sıklığı arttırıldı ancak tüy sayısı 5 yerine 2 olarak değiştirildi.
