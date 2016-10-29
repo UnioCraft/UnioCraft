@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [BETA1.7]__ /elsat ve /envanterisat komutlarındaki fiyatların normal market fiyatıyla farklı olması sorunu düzeltildi.
 - __[SurvivalGames] [3.5.1.3]__ Harita seçildikten sonra oyuncuları haritaya göndermeme sorunu düzeltildi.
 - __[SurvivalGames] [3.5.1.2]__ Glide hilesi korumasının yarattığı sorunlar düzeltilmiştir. (Umarız)
 - __[SurvivalGames] [3.5.1.2]__ Tier2 sandıklarla ilgili yaşanan bir sorun düzeltilmiştir.
