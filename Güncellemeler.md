@@ -1,5 +1,12 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [BETA1.9]__ Çok ucuz fiyatlara zümrüte erişilebilmesinin önüne geçmek için köylülerle ticaret engellendi.
+- __[Skyblock2] [BETA1.9]__ Envanter doluyken bir eşya satın aldığınızda elinizdeki 64lük eşyanın 1 adete düşmesi sorunu düzeltildi.
+- __[Skyblock2] [BETA1.9]__ Markette eflatun boyalı camın mor boyalı cam olarak görünmesi sorunu düzeltildi.
+- __[Skyblock2] [BETA1.9]__ Prizmarin parçacığının markette 2 adet yazıp 1 adet eşya vermesi sorunu düzeltildi.
+- __[Skyblock2] [BETA1.9]__ Düşen blokların silinmesi sorunu düzeltildi. (Kum, kil vs.)
+- __[Skyblock2] [BETA1.9]__ Atla dünyadan aşağı düşerken spawna ışınlanamama sorunu düzeltildi.
+- __[Skyblock2] [BETA1.9]__ Renkli camlara 40bin blok seviye sınırı getirildi.
 - __[Skyblock2] [BETA1.8]__ Nether Tuğlası ve Kuvars marketten kaldırıldı.
 - __[Skyblock2] [BETA1.8]__ Nether Tuğlası Bloğu ve Nether Tuğlasının açık arttırmada aynı isme sahip olmaları sorunu düzeltildi.
 - __[Skyblock2] [BETA1.8]__ Saman Balyasının fiyatı buğday fiyatı ile dengelendi.
