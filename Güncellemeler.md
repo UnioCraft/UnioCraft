@@ -1,5 +1,19 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock1] [1.8]__ Artık TAB menüsünde tagler yazıyor!
+- __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
+- __[Skyblock1] [1.8]__ Açık arttırma plugini Skyblock2 ile aynı yapıldı. Artık tamamen Türkçe!
+- __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
+- __[Skyblock1] [1.8]__ Artık /sc clear own komutu ile chatinizi temizleyebilirsiniz.
+- __[Skyblock1] [1.8]__ Artık mailiniz yoksa oyunun başında bildirim almayacaksınız.
+- __[Skyblock1] [1.8]__ Para almanızı açıp-kapatan /paytoggle komutu eklendi.
+- __[Skyblock1] [1.8]__ Mesaj almanızı açıp-kapatan /msgtoggle komutu eklendi.
+- __[Skyblock1] [1.8]__ Zombi Domuzadam ve Köylü spawnerları eklendi.
+- __[Skyblock1] [1.8]__ Artık spawner satın alındığında anında aktif oluyor! Ayrıca aynı anda birden çok spawner alınabilir.
+- __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
+- __[Skyblock1] [1.8]__ Demir spawnerlar artık kırılabilir, yeri değiştirilebilir ve ticaret yapılabilir.
+- __[Skyblock1] [1.8]__ Kilit plugini Skyblock2'deki ile aynı yapıldı. Zamanlayıcılı kapı ([Zamanla:@]) özelliği eklendi.
+- __[Skyblock1] [1.8]__ Sunucu 1.8 sürümüne tam geçiş yaptı. 1.8 blokları eklendi. Ayrıca spawnerların mor-siyah görünmesi sorunu düzeltildi.
 - __[Skyblock2] [BETA1.9]__ Çok ucuz fiyatlara zümrüte erişilebilmesinin önüne geçmek için köylülerle ticaret engellendi.
 - __[Skyblock2] [BETA1.9]__ Envanter doluyken bir eşya satın aldığınızda elinizdeki 64lük eşyanın 1 adete düşmesi sorunu düzeltildi.
 - __[Skyblock2] [BETA1.9]__ Markette eflatun boyalı camın mor boyalı cam olarak görünmesi sorunu düzeltildi.
