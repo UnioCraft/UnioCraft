@@ -1,5 +1,14 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [BETA1.10]__ Artık VIP adalarında da katman kayası var.
+- __[Skyblock2] [BETA1.10]__ /iteminfo komutu getirildi.
+- __[Skyblock2] [BETA1.10]__ Başkalarının adalarında ender incisi atabilme sorunu düzeltildi.
+- __[Skyblock2] [BETA1.10]__ Prizmarin bloklarına 20bin blokluk limit getirildi.
+- __[Skyblock2] [BETA1.10]__ Boyalı kil bloklarına 10bin blokluk limit getirildi.
+- __[Skyblock2] [BETA1.10]__ Adadan çıkıldığında ya da atıldığında görevlerin sıfırlanmaması sorunu düzeltildi.
+- __[Skyblock2] [BETA1.10]__ 100.000 ada seviyesi gerektiren SkyKing tagi eklendi.
+- __[Skyblock2] [BETA1.10]__ Spawner sistemi geliştirildi. Domuza dönüşme sorunları düzeltildi.
+- __[Skyblock2] [BETA1.10]__ 16 blokluk alanda 16 huni olan huni sınırı 100 blokluk alanda 150 huni olarak değiştirildi.
 - __[Skyblock1] [1.8]__ Artık TAB menüsünde tagler yazıyor!
 - __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
 - __[Skyblock1] [1.8]__ Açık arttırma plugini Skyblock2 ile aynı yapıldı. Artık tamamen Türkçe!
