@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [BETA1.10.1]__ Artık /auc end komutu ile açık arttırmaları erkenden bitirebilirsiniz.
+- __[Skyblock1] [1.8.1]__ Artık /auc end komutu ile açık arttırmaları erkenden bitirebilirsiniz.
+- __[AsitAdası] [2.0.1]__ Artık /auc end komutu ile açık arttırmaları erkenden bitirebilirsiniz.
 - __[AsitAdası] [2.0]__ /is top artık yeni bir menü olarak açılıyor!
 - __[AsitAdası] [2.0]__ Artık TAB menüsünde tagler yazıyor!
 - __[AsitAdası] [2.0]__ Açık arttırma plugini Skyblock sunucuları ile aynı yapıldı. Artık tamamen Türkçe!
