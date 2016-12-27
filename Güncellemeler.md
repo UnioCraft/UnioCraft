@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[AsitAdası] [2.0]__ /is top artık yeni bir menü olarak açılıyor!
 - __[AsitAdası] [2.0]__ Artık TAB menüsünde tagler yazıyor!
 - __[AsitAdası] [2.0]__ Açık arttırma plugini Skyblock sunucuları ile aynı yapıldı. Artık tamamen Türkçe!
 - __[AsitAdası] [2.0]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
