@@ -1,5 +1,14 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[AsitAdası] [2.0]__ Artık TAB menüsünde tagler yazıyor!
+- __[AsitAdası] [2.0]__ Açık arttırma plugini Skyblock sunucuları ile aynı yapıldı. Artık tamamen Türkçe!
+- __[AsitAdası] [2.0]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
+- __[AsitAdası] [2.0]__ Artık /sc clear own komutu ile chatinizi temizleyebilirsiniz.
+- __[AsitAdası] [2.0]__ Artık mailiniz yoksa oyunun başında bildirim almayacaksınız.
+- __[AsitAdası] [2.0]__ Para almanızı açıp-kapatan /paytoggle komutu eklendi.
+- __[AsitAdası] [2.0]__ Mesaj almanızı açıp-kapatan /msgtoggle komutu eklendi.
+- __[AsitAdası] [2.0]__ Kilit plugini Skyblock sunucularındaki ile aynı yapıldı. Zamanlayıcılı kapı ([Zamanla:@]) özelliği eklendi.
+- __[AsitAdası] [2.0]__ Sunucu 1.8 sürümüne tam geçiş yaptı. 1.8 blokları eklendi. Ayrıca spawnerların mor-siyah görünmesi sorunu düzeltildi.
 - __[Skyblock2] [BETA1.10]__ Artık VIP adalarında da katman kayası var.
 - __[Skyblock2] [BETA1.10]__ /iteminfo komutu getirildi.
 - __[Skyblock2] [BETA1.10]__ Başkalarının adalarında ender incisi atabilme sorunu düzeltildi.
@@ -10,9 +19,7 @@ Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor
 - __[Skyblock2] [BETA1.10]__ Spawner sistemi geliştirildi. Domuza dönüşme sorunları düzeltildi.
 - __[Skyblock2] [BETA1.10]__ 16 blokluk alanda 16 huni olan huni sınırı 100 blokluk alanda 150 huni olarak değiştirildi.
 - __[Skyblock1] [1.8]__ Artık TAB menüsünde tagler yazıyor!
-- __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
 - __[Skyblock1] [1.8]__ Açık arttırma plugini Skyblock2 ile aynı yapıldı. Artık tamamen Türkçe!
-- __[Skyblock1] [1.8]__ Artık spawner kırmak için ipeksi dokunuşlu kazmaya ihtiyaç yok!
 - __[Skyblock1] [1.8]__ Artık /sc clear own komutu ile chatinizi temizleyebilirsiniz.
 - __[Skyblock1] [1.8]__ Artık mailiniz yoksa oyunun başında bildirim almayacaksınız.
 - __[Skyblock1] [1.8]__ Para almanızı açıp-kapatan /paytoggle komutu eklendi.
