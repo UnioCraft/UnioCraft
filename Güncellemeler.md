@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[AsitAdası] [2.0.3]__ Huni sınırı kaldırılmıştır.
 - __[AsitAdası] [2.0.2]__ Huni sınırı 1600'e çıkarılmıştır.
 - __[Skyblock2] [BETA1.10.1]__ Artık /auc end komutu ile açık arttırmaları erkenden bitirebilirsiniz.
 - __[Skyblock1] [1.8.1]__ Artık /auc end komutu ile açık arttırmaları erkenden bitirebilirsiniz.
