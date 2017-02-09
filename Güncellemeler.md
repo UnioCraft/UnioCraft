@@ -1,5 +1,10 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.5.2]__ USG TheLostCity haritası SoloSG odalarına da eklendi.
+- __[SurvivalGames] [3.5.2]__ MountMorgan haritası eklendi.
+- __[SurvivalGames] [3.5.2]__ KillAura botları artık görünmez!
+- __[SurvivalGames] [3.5.2]__ KillAura korumasına bir yeni özellik daha eklendi. 
+- __[SurvivalGames] [3.5.2]__ Pusuladaki mesafe küsüratları artık daha düzgün görünüyor.
 - __[Skyblock2] [BETA1.11]__ Double cheste birden fazla market kuramama bugu düzeltildi. 
 - __[AsitAdası] [2.0.3]__ Huni sınırı kaldırılmıştır.
 - __[AsitAdası] [2.0.2]__ Huni sınırı 1600'e çıkarılmıştır.
