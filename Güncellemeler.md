@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Skyblock2] [BETA2.0]__ Adaların kaybolması, başkasının adasında eşya atabilme gibi sorunlar çözüldü.
 - __[SurvivalGames] [3.5.2]__ USG TheLostCity haritası SoloSG odalarına da eklendi.
 - __[SurvivalGames] [3.5.2]__ MountMorgan haritası eklendi.
 - __[SurvivalGames] [3.5.2]__ KillAura korumasına bir yeni özellik daha eklendi. 
