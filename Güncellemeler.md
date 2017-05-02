@@ -1,5 +1,8 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[Factions] [2.7]__ /logout komutu ile savaştan güvenli bir şekilde çıkış komutu eklendi.
+- __[Factions] [2.7]__ /tag komutu /ct ile değiştirildi.
+- __[Factions] [2.7]__ Savaşta bulunma süresi 15 saniyeye düşürüldü.
 - __[Factions] [2.7]__ Savaşta iken oyundan çıktığınızda elinizdeki kılıcın gücünün yumruğunuza geçmesi sorunu düzeltildi.
 - __[Factions] [2.7]__ Savaştan kaçma koruması düzenlendi. Artık kendine vurduğunuzda savaşa girmiş sayılmıyorsunuz.
 - __[Skyblock2] [BETA2.1]__ Savaşatan kaçanların eşyalarının 60 saniye sonra düşmesi sorunu düzeltildi.
