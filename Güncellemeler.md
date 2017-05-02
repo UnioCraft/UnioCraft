@@ -2,7 +2,7 @@
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
 - __[Factions] [2.7]__ Savaşta iken oyundan çıktığınızda elinizdeki kılıcın gücünün yumruğunuza geçmesi sorunu düzeltildi.
 - __[Factions] [2.7]__ Savaştan kaçma koruması düzenlendi. Artık kendine vurduğunuzda savaşa girmiş sayılmıyorsunuz.
-- __[Skyblock2] [BETA2.1]__ Savaşatan kaçanların eşyalarının 60 saniye düşmesi sorunu düzeltildi.
+- __[Skyblock2] [BETA2.1]__ Savaşatan kaçanların eşyalarının 60 saniye sonra düşmesi sorunu düzeltildi.
 - __[Skyblock2] [BETA2.0]__ Adaların kaybolması, başkasının adasında eşya atabilme gibi sorunlar çözüldü.
 - __[SurvivalGames] [3.5.2]__ USG TheLostCity haritası SoloSG odalarına da eklendi.
 - __[SurvivalGames] [3.5.2]__ MountMorgan haritası eklendi.
