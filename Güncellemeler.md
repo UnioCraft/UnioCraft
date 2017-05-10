@@ -1,5 +1,6 @@
 # Güncellemeler
 Sunucumuzda yaptığımız tüm değişiklikler artık bu sayfada yayınlanıyor!
+- __[SurvivalGames] [3.5.3]__ VIP oyuncuların dolu odalara girememesi sorunu düzeltildi.
 - __[Factions] [2.7]__ /logout komutu ile savaştan güvenli bir şekilde çıkış komutu eklendi.
 - __[Factions] [2.7]__ /tag komutu /ct ile değiştirildi.
 - __[Factions] [2.7]__ Savaşta bulunma süresi 15 saniyeye düşürüldü.
