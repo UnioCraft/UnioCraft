@@ -1,3 +1,72 @@
 [submodule "UnioEssentials"]
 	path = UnioEssentials
 	url = https://github.com/UnioDex/UnioEssentials
+[submodule "Squid"]
+	path = Squid
+	url = https://github.com/UnioDex/Squid
+[submodule "USG4"]
+	path = USG4
+	url = https://github.com/UnioDex/USG4
+[submodule "UnioSmartMessages"]
+	path = UnioSmartMessages
+	url = https://github.com/UnioDex/UnioSmartMessages
+[submodule "UnioAntiCrash"]
+	path = UnioAntiCrash
+	url = https://github.com/UnioDex/UnioAntiCrash
+[submodule "Skywars"]
+	path = Skywars
+	url = https://github.com/UnioDex/Skywars
+[submodule "UnioStats"]
+	path = UnioStats
+	url = https://github.com/UnioDex/UnioStats
+[submodule "UnioProtections"]
+	path = UnioProtections
+	url = https://github.com/UnioDex/UnioProtections
+[submodule "UnioPiyango2"]
+	path = UnioPiyango2
+	url = https://github.com/UnioDex/UnioPiyango2
+[submodule "UnioEvents"]
+	path = UnioEvents
+	url = https://github.com/UnioDex/UnioEvents
+[submodule "CrateCreator2"]
+	path = CrateCreator2
+	url = https://github.com/UnioDex/CrateCreator2
+[submodule "UnioAntiGrief"]
+	path = UnioAntiGrief
+	url = https://github.com/UnioDex/UnioAntiGrief
+[submodule "UnioBungee"]
+	path = UnioBungee
+	url = https://github.com/UnioDex/UnioBungee
+[submodule "UnioGirisLobi"]
+	path = UnioGirisLobi
+	url = https://github.com/UnioDex/UnioGirisLobi
+[submodule "UnioIslandDownloader"]
+	path = UnioIslandDownloader
+	url = https://github.com/UnioDex/UnioIslandDownloader
+[submodule "UnioLobi"]
+	path = UnioLobi
+	url = https://github.com/UnioDex/UnioLobi
+[submodule "USB3"]
+	path = USB3
+	url = https://github.com/UnioDex/USB3
+[submodule "UnioCustomItems"]
+	path = UnioCustomItems
+	url = https://github.com/UnioDex/UnioCustomItems
+[submodule "UnioFactions"]
+	path = UnioFactions
+	url = https://github.com/UnioDex/UnioFactions
+[submodule "UnioMarket"]
+	path = UnioMarket
+	url = https://github.com/UnioDex/UnioMarket
+[submodule "UnioPerks"]
+	path = UnioPerks
+	url = https://github.com/UnioDex/UnioPerks
+[submodule "UnioASkyBlock"]
+	path = UnioASkyBlock
+	url = https://github.com/UnioDex/UnioASkyBlock
+[submodule "UnioAntiTradeBug"]
+	path = UnioAntiTradeBug
+	url = https://github.com/UnioDex/UnioAntiTradeBug
+[submodule "UnioCraft-Console-Client"]
+	path = UnioCraft-Console-Client
+	url = https://github.com/UnioDex/UnioCraft-Console-Client
