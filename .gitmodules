@@ -1,0 +1,3 @@
+[submodule "UnioEssentials"]
+	path = UnioEssentials
+	url = https://github.com/UnioDex/UnioEssentials
